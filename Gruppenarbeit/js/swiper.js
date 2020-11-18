@@ -8,7 +8,7 @@
  
  */
 
-//1. link zum index importiert.
+//1. link zum index importiert..
 
 document.addEventListener('DOMContentLoaded', init);
 console.log('DOM ready');
